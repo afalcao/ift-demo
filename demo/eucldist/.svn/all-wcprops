@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/demo/eucldist
+END
+leaf.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/demo/eucldist/leaf.pgm
+END
+bicycle.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5/trunk/demo/eucldist/bicycle.pgm
+END
+spiral.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/5/trunk/demo/eucldist/spiral.pgm
+END
+eucldist.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/18/trunk/demo/eucldist/eucldist.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/demo/eucldist/Makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/23/trunk/demo/msskels
+END
+msskels.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/demo/msskels/msskels.c
+END
+msgeodesicskels.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/demo/msskels/msgeodesicskels.c
+END
+leaf.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/demo/msskels/leaf.pgm
+END
+bicycle.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/demo/msskels/bicycle.pgm
+END
+spiral.pgm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/demo/msskels/spiral.pgm
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/23/trunk/demo/msskels/Makefile
+END

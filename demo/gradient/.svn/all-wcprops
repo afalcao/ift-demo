@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/23/trunk/demo/gradient
+END
+garden-seeds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/11/trunk/demo/gradient/garden-seeds.txt
+END
+kangaroo-seeds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/11/trunk/demo/gradient/kangaroo-seeds.txt
+END
+kangaroo-seeds2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/11/trunk/demo/gradient/kangaroo-seeds2.txt
+END
+man.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/11/trunk/demo/gradient/man.ppm
+END
+boys.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/11/trunk/demo/gradient/boys.ppm
+END
+flower.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/demo/gradient/flower.ppm
+END
+man-seeds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/11/trunk/demo/gradient/man-seeds.txt
+END
+garden.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/11/trunk/demo/gradient/garden.ppm
+END
+boys-seeds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/trunk/demo/gradient/boys-seeds.txt
+END
+kangaroo.ppm
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/11/trunk/demo/gradient/kangaroo.ppm
+END
+flower-seeds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/17/trunk/demo/gradient/flower-seeds.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/23/trunk/demo/gradient/Makefile
+END
+gradient.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/22/trunk/demo/gradient/gradient.c
+END
